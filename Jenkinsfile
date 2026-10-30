@@ -67,3 +67,5 @@ pipeline {
         }
     }
 }
+
+/* Ceci est le fichier jenkins*/
